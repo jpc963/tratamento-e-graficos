@@ -1,2 +1,7 @@
-# tratamento e graficos
- Análise dos dados de uma empresa para saber os motivos da saída dos clientes
+ Análise dos dados de uma empresa utilizando Pandas e Plotly. 
+
+ Objetivo: 
+    - Descobrir os possíveis motivos do cancelamento dos serviços por parte dos clientes.
+    - O que pode ser feito, com base na análise dos gráficos, para diminuir a taxa de cancelamento.
+
+Packages necessários: Pandas, Plotly, openpyxl, IPython
